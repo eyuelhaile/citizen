@@ -1,0 +1,8 @@
+VIEWS
+
+selection
+admission
+
+SQL
+
+UPDATE coursesoffered_list SET course_id = 1074 WHERE id = 259
